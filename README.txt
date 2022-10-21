@@ -2,7 +2,7 @@
 
 FILE "Lab Experiment Datasets.xlsx" corresponds to experimental data used Figure 1 and Figure 2
 
-FILE "KML" contains detailed information of the 113 Oxbow Lakes along Juruá River (Map data: Google Earth; 4° 49′S, 66° 50′W), which is used in Figure 3b
+FILE "KML.rar" contains detailed information of the 113 Oxbow Lakes along Juruá River (Map data: Google Earth; 4° 49′S, 66° 50′W), which is used in Figure 3b
 
 FILE "Data_Output.m" aims at acquiring X/Y coordinate of points along each Oxbow Lakes 
 
