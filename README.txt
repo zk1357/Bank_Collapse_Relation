@@ -1,6 +1,6 @@
 # Bank_Collapse_Relation
 
-FILE "Lab Experiment Datasets.xlsx" corresponds to experimental data used Figure 2
+FILE "Lab Experiment Datasets.xlsx" corresponds to experimental data used in Figure S9.
 
 FILE "KML.rar" contains detailed procedure of how to process the river planform reported in Finotello et al. (Sci.Rep., 2020), https://doi.org/10.1038/s41598-019-56992-w, which is used in Figure 4. The procedure is divided into two parts: Data_Outout_P1.m and Data_Outout_P2.m
 
